@@ -4,9 +4,10 @@ using UnityEngine;
 
 public class Var : MonoBehaviour
 {
-    // Start is called before the first frame update
+    // update is called once per frame
     void Start()
     {
+
         
     }
 
