@@ -49,7 +49,7 @@ public class If_statements : MonoBehaviour
         {
             Debug.Log("You do not need a coat!");
         }
-        */
+        
         else if(haircolor == "Red" && age == 6)
         {
             Debug.Log("You can Ride the Merry Go Round!");
@@ -58,5 +58,6 @@ public class If_statements : MonoBehaviour
         {
             Debug.Log("You are old enough to ride the Fire Dragon Ride!!!!");
         }
+        */
     }
 }
